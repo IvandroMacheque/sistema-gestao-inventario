@@ -1,0 +1,8 @@
+flet==0.27.6
+psycopg2-binary
+pandas
+openpyxl
+reportlab
+matplotlib
+numpy
+pyinstaller
