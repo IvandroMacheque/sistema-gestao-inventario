@@ -105,16 +105,13 @@ password = SUA_SENHA
 host = localhost
 ```
 
-4. Execute: 
-```text 
-python app.py
-```
+4. Execute: `python app.py`
+
 ### 4. Gerar Executável (Deploy)
 
 Para criar a versão de distribuição para o cliente:
-```text
-pyinstaller --noconsole --name "GestorInventario" --add-data "assets;assets" --icon="assets/icon.ico" app.py
-```
+`pyinstaller --noconsole --name "GestorInventario" --add-data "assets;assets" --icon="assets/icon.ico" app.py`
+
 A pasta final estará em `dist/GestorInventario`. Lembre-se de incluir o config.ini dentro dela antes de entregar.
 
 ---
