@@ -1,0 +1,23 @@
+# 1. Ignorar arquivo com a senha real
+config.ini
+
+# 2. Ignorar pastas de compilação 
+build/
+dist/
+*.spec
+
+# 3. Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# 4. Ignorar ambiente virtual (se tiver)
+venv/
+.env
+
+# 5. Ignorar relatórios gerados
+assets/exports/*.pdf
+assets/exports/*.xlsx
+Meus Relatorios/
+
+# 6. Ignorar logs de erro
+*.log
