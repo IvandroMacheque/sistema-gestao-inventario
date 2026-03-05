@@ -1,4 +1,4 @@
-# 📦 Sistema de Gestão de Inventário - High Performance Desktop App
+# 📦 Sistema de Gestão de Inventário de Agência Imobiliária
 
 Aplicação Desktop para gestão de inventário imobiliário desenvolvida com **Python (Flet)** e **PostgreSQL**. O projeto foca em alta performance de dados, integridade referencial e geração de relatórios gerenciais complexos.
 
