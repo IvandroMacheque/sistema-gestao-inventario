@@ -6,6 +6,18 @@ Diferente de sistemas comuns que sofrem com lentidão ao carregar listas, este p
 
 ---
 
+## 🎮 Live Demo
+
+Você pode testar a interface e a usabilidade do sistema diretamente no seu navegador, sem precisar instalar nada:
+
+👉 **[CLIQUE AQUI PARA ACESSAR A DEMO ONLINE](https://inventario-demo-1qob.onrender.com/)**
+
+> **⚠️ Nota Técnica:** A versão web acima é uma **demonstração**. Para rodar na nuvem gratuita, ela utiliza uma camada de dados adaptada em **memória (dados fictícios)**.
+>
+> O projeto original (código fonte abaixo) é uma aplicação **Desktop Conectada**, que utiliza **PostgreSQL** local e queries SQL otimizadas para lidar com milhares de registros reais.
+
+---
+
 ## 🧠 Decisões de Arquitetura
 
 ### **1. SQL Puro (Raw SQL) vs ORM**
